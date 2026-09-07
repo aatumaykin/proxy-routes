@@ -1,0 +1,6 @@
+hermes-agent.nousresearch.com
+tinfoil.media
+npmjs.org
+cerebras.ai
+cursor.com
+cursor.sh
