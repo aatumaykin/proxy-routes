@@ -4,3 +4,5 @@ npmjs.org
 cerebras.ai
 cursor.com
 cursor.sh
+pypi.org
+files.pythonhosted.org
