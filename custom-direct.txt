@@ -1,0 +1,4 @@
+# Домены, выводимые из whitelist-VPN (source → vless) на прямой путь.
+# Правило custom-direct → direct стоит ПЕРЕД source-whitelist в routing.
+# Кликают оба релея (дом/дача) через geosite-cron (extract_geosite.py).
+z.ai
