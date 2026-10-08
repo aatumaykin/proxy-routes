@@ -8,3 +8,4 @@ pypi.org
 files.pythonhosted.org
 storage.googleapis.com
 getbb.app
+kinorium.com
