@@ -10,3 +10,4 @@ storage.googleapis.com
 getbb.app
 kinorium.com
 torrentclaw.com
+pi-in-go.dev
