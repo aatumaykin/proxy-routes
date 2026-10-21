@@ -11,3 +11,4 @@ getbb.app
 kinorium.com
 torrentclaw.com
 pi-in-go.dev
+perplexity.ai
