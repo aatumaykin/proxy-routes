@@ -14,3 +14,4 @@ pi-in-go.dev
 perplexity.ai
 huggingface.co
 hf.co
+delta.dev
