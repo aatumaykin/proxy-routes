@@ -15,3 +15,5 @@ perplexity.ai
 huggingface.co
 hf.co
 delta.dev
+kimi.com
+statics.moonshot.cn
