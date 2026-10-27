@@ -17,3 +17,4 @@ hf.co
 delta.dev
 kimi.com
 statics.moonshot.cn
+superlogical.com
