@@ -19,3 +19,5 @@ kimi.com
 statics.moonshot.cn
 superlogical.com
 r.stripe.com
+docker.io
+docker.com
