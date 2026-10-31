@@ -21,3 +21,4 @@ superlogical.com
 r.stripe.com
 docker.io
 docker.com
+wici.ai
