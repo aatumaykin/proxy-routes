@@ -22,3 +22,4 @@ r.stripe.com
 docker.io
 docker.com
 wici.ai
+yetanotherbrowser.com
