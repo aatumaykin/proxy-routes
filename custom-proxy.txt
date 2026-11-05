@@ -26,3 +26,4 @@ yetanotherbrowser.com
 blob.vercel-storage.com
 hackertube.org
 thehackernews.com
+net.coffee
