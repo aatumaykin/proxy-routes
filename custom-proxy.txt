@@ -30,3 +30,4 @@ net.coffee
 cdn.agentclientprotocol.com
 api.openbot.run
 api.codync.dev
+radius.earendil.com
