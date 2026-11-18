@@ -28,3 +28,5 @@ hackertube.org
 thehackernews.com
 net.coffee
 cdn.agentclientprotocol.com
+api.openbot.run
+api.codync.dev
