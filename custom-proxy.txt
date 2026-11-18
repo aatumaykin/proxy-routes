@@ -27,3 +27,4 @@ blob.vercel-storage.com
 hackertube.org
 thehackernews.com
 net.coffee
+cdn.agentclientprotocol.com
