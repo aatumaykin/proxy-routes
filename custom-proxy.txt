@@ -4,8 +4,6 @@ npmjs.org
 cerebras.ai
 cursor.com
 cursor.sh
-pypi.org
-files.pythonhosted.org
 storage.googleapis.com
 getbb.app
 kinorium.com
