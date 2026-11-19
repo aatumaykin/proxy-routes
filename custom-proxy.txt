@@ -19,7 +19,6 @@ superlogical.com
 r.stripe.com
 docker.io
 docker.com
-wici.ai
 yetanotherbrowser.com
 blob.vercel-storage.com
 hackertube.org
