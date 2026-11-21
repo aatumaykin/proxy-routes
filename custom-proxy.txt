@@ -29,3 +29,4 @@ api.openbot.run
 api.codync.dev
 radius.earendil.com
 orca.dev
+t3.codes
